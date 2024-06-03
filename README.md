@@ -1,2 +1,2 @@
 # testrepo
-getting started with github properly.
+Getting started with github properly.
